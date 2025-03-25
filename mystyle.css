@@ -1,0 +1,32 @@
+.mybg {
+    background-color: lightgreen;
+}
+.hero{
+    height:80vh;
+    background-image: url("https://img.freepik.com/premium-photo/view-computer-laptop-coffee-cup-glasses-white-background-with-copy-space_35674-5978.jpg");
+    background-size: cover;
+    /* background-position: right; */
+    overflow:hidden;
+}
+.hero .heading{
+    transform:translate(25% ,25%);
+
+}
+.mycolor{
+    color:palevioletred;
+}
+.myclass{
+    height:400px;
+}
+.myclass .info{
+    height:120px;
+    border-right: 1px solid white;
+    /* margin:20px; */
+
+}
+.myclass h4{
+   color:white;
+}
+.myclass p{
+    color:grey;
+}
